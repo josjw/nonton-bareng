@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Nonton Bareng</string>
+    <string name="search">Search</string>
+    <string name="release_date">Release Date</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="rating">Rating</string>
+    <string name="viewer">Viewer</string>
+    <string name="voting">(Voting)</string>
+    <string name="exit">Exit</string>
+    <string name="about">About</string>
+    <string name="languages">Languages</string>
+    <string name="about_me">About Me</string>
+    <string name="nonton_bareng">Nonton Bareng</string>
+    <string name="about_desc">Applications pamper the eyes to fill spare time</string>
+    <string name="name">Joseph Emmanuel Wijaya</string>
+    <string name="nim">19.11.2627</string>
+    <string name="login">LOGIN</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="create_account">Create Account</string>
+    <string name="register">REGISTER</string>
+    <string name="retype_password">retype password</string>
+    <string name="back_to_login">Back to Login</string>
+    <string name="input_name">name</string>
+</resources>

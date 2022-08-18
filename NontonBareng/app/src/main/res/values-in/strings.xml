@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nonton Bareng</string>
+    <string name="search">Cari</string>
+    <string name="release_date">Tanggal Rilis</string>
+    <string name="title">Judul</string>
+    <string name="description">Deskripsi</string>
+    <string name="rating">Peringkat</string>
+    <string name="viewer">Penonton</string>
+    <string name="voting">(Memilih)</string>
+    <string name="exit">Keluar</string>
+    <string name="about">Tentang</string>
+    <string name="languages">Bahasa</string>
+    <string name="about_me">Tentang Saya</string>
+    <string name="nonton_bareng">Nonton Bareng</string>
+    <string name="about_desc">Aplikasi memanjakan mata untuk mengisi waktu luang</string>
+    <string name="name">Joseph Emmanuel Wijaya</string>
+    <string name="nim">19.11.2627</string>
+    <string name="login">MASUK</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="create_account">Buat Akun</string>
+    <string name="register">Daftar Akun</string>
+    <string name="retype_password">ketik ulang password</string>
+    <string name="back_to_login">Kembali ke Login</string>
+    <string name="input_name">nama</string>
+</resources>
